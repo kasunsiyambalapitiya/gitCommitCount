@@ -2,3 +2,4 @@ Hi this is for testing, (added a coma to check the modification)
 added this line for testing git diff --stat
 Hi this is Kasun
 Intern at wso2 pvt ltd
+End
