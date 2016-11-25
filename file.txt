@@ -1,2 +1,3 @@
 Hi this is for testing, (added a coma to check the modification)
 added this line for testing git diff --stat
+Hi
